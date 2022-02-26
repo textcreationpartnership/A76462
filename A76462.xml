@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The best and happiest tydings from Ireland. Being the joyfullest newes that ever came to England, since the first rebellion. Wherin is related the victorious proceeding of the Protestant army before Kildare, April 24. a battle of never dying memory. Shewing in a most true and exact relation, the invincible courage of Sir Charles Coot, the pearl of the world, and captain of all captains, as may appear by his heroicall fact before Kildare, April 24, 1462 [sic]. manifesting to the world by that famous victory which he obtained over the rebels, with the number of the men that were slain in this battle. Likewise the names of three great commanders that were taken prisoners in this battle, and how one of them would have stob'd himself after he was taken. With many more remarkable passages from that kingdome. Brought over by the last post, April 30.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76462</idno>
+            <idno type="STC">Wing B2055</idno>
+            <idno type="STC">Thomason E144_26</idno>
+            <idno type="STC">ESTC R18883</idno>
+            <idno type="EEBO-CITATION">99860487</idno>
+            <idno type="PROQUEST">99860487</idno>
+            <idno type="VID">156633</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156633)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The best and happiest tydings from Ireland. Being the joyfullest newes that ever came to England, since the first rebellion. Wherin is related the victorious proceeding of the Protestant army before Kildare, April 24. a battle of never dying memory. Shewing in a most true and exact relation, the invincible courage of Sir Charles Coot, the pearl of the world, and captain of all captains, as may appear by his heroicall fact before Kildare, April 24, 1462 [sic]. manifesting to the world by that famous victory which he obtained over the rebels, with the number of the men that were slain in this battle. Likewise the names of three great commanders that were taken prisoners in this battle, and how one of them would have stob'd himself after he was taken. With many more remarkable passages from that kingdome. Brought over by the last post, April 30.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for H. Bluron,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A declaration from both Houses of Parliament", respecting the town of Hull, on p. 8.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coote, Charles, --  Sir, d. 1642.</term>
+               <term>Kildare (Kildare) --  History, Military --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156633:1"/>
+            <!-- PDF PAGE 86 -->
+            <pb facs="tcp:156633:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <p>The Beſt and Happieſt TYDINGS <hi>FROM</hi> IRELAND Being the Joyfulleſt News that ever came to England, ſince the firſt Rebellion.</p>
+            <p>Wherin is related the Victorious Proceeding of the Pro<g ref="char:EOLhyphen"/>teſtant Army before <hi>Kildare, April</hi> 24. a Battle of never dying memory.</p>
+            <p>Shewing in a moſt true and exact Relation, the invincible Courage of Sir <hi>Charles Coot,</hi> the Pearl of the World, and Captain of all Captains, as may appear by his Heroi<g ref="char:EOLhyphen"/>call Fact before <hi>Kildare, April</hi> 24, 1462. manife<g ref="char:EOLhyphen"/>ſting to the World by that famous Victory which he obtained over the rebels, with the number of the men that were ſlam in this Battle.</p>
+            <p>Likewiſe the Names of three great Commanders that were taken priſoners in this Battle, and how one of them would have ſtob'd himſelf after he was taken, With many more Remarkable paſſages from that Kingdome.</p>
+            <p>Brought over by the laſt Poſt, April 30.</p>
+            <p>Imprinted at London, for H. Bluron, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156633:2"/>
+            <!-- PDF PAGE 87 -->
+            <pb facs="tcp:156633:2"/>
+            <!-- PDF PAGE 87 -->
+            <head>A JOYFULL LETTER <hi>FROM IRELAND.</hi>
+            </head>
+            <p>THe furious and inſolent enemies have made much havock of a great part of the Kingdom, and made m<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny Cities and towns of good Fame, now deſolate, they have attemp<g ref="char:EOLhyphen"/>ted to ruine more <hi>Armagh</hi> they have laid levell with the ground; ſo that of that fair and Metropolitan City, they have not left any ſhew or ſign.</p>
+            <p>They have given many an Onſet a<g ref="char:EOLhyphen"/>gainſt the City of <hi>Dublin;</hi> but their Forces have bin repelled, and the City defended.</p>
+            <p>Much harm is done to many Villa<g ref="char:EOLhyphen"/>ges
+<pb facs="tcp:156633:3"/>
+               <!-- PDF PAGE 88 -->
+               <pb facs="tcp:156633:3"/>
+               <!-- PDF PAGE 88 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:156633:4"/>
+               <!-- PDF PAGE 89 -->neer adjovning unto thoſe Cities, and have not ſpared any whom they could ſubdue unto their power and malice. Only thus much the Inhabitants of <hi>Kildare</hi> have bin in a very great ſtreight.</p>
+            <p>But the Mercie of God is above all his Works, and his Power extends it ſelf beyond the deſire of any humane expectation.</p>
+            <p>For now in the depth of all Extre<g ref="char:EOLhyphen"/>mitie, when they were ſo oppreſſed with Famine: the mercifull God ex<g ref="char:EOLhyphen"/>preſſed his power, and when they were in deſpair of all Succour or Relief, the Lord ſent comfort unto them. For the very day before the time, when they had intended and reſolved to have ſur<g ref="char:EOLhyphen"/>rendred up the town unto the enemy, Sir <hi>Charles Coot</hi> and Captain <hi>Venman</hi> joined their Forces together, which did accrew unto the number and ſtrength of neer upon 2000. men; with theſe Forces they marched towards <hi>Kildare,</hi> either reſolving to relieve the poor di<g ref="char:EOLhyphen"/>ſtreſſed
+<pb facs="tcp:156633:4"/>
+               <!-- PDF PAGE 89 -->ſouls, or to dye in their de<g ref="char:EOLhyphen"/>fence.</p>
+            <p>No ſooner did the Enemy perceive their approach, but with all ſpeed they could they did provide to give them Battle, which was the deſire and ex<g ref="char:EOLhyphen"/>pectation of theſe two Noble and va<g ref="char:EOLhyphen"/>liant Cavaliers.</p>
+            <p>The ſight of theſe approaching Com<g ref="char:EOLhyphen"/>panies gave great Comfort unto the deſpairing minds of the incloſed Pro<g ref="char:EOLhyphen"/>teſtants; who did now reſolve either for Liberty or Glorious Death, who immediatly provided themſelves to Repell the Enemy, and gain their own Freedome. They ſpeedily and couragi<g ref="char:EOLhyphen"/>ouſly betook themſelves to their Arms, and from the Town walls gave the E<g ref="char:EOLhyphen"/>nemy ſuch a valley of ſhot, that many of them were on the ſudden cut off in their own ſecurity. At which unexpe<g ref="char:EOLhyphen"/>cted ruine, they retreated a little way from the town, thinking to have retur<g ref="char:EOLhyphen"/>ned into the ſiege better provided, and have given them preſent Battle.</p>
+            <p>
+               <pb facs="tcp:156633:5"/>
+               <!-- PDF PAGE 90 -->
+But in their Retreat they met with a ſharper enemy then their expectation did apprehend to be ſo neer at hand Sir <hi>Charls</hi> aprehended the advantage of their preſent diſorder, occaſioned by the ſud<g ref="char:EOLhyphen"/>den peal of Guns, ſounding from the Walls of of the town, and did not o<g ref="char:EOLhyphen"/>mit their opportunity, but gave them ſudden Battle; which the Enemy for a while anſwered ſtoutly, the loſſe on both ſides ſeemed for a ſpace, to be ve<g ref="char:EOLhyphen"/>ry equall, and the Victory doubtfull.</p>
+            <p>The day was half ſpent in this Skir<g ref="char:EOLhyphen"/>miſh, and much blood was ſhed on ei<g ref="char:EOLhyphen"/>ther ſide; but at the length, being wil<g ref="char:EOLhyphen"/>ling to conclude the battle with the Sun of the day, did proſper the cauſe of the Proteſtants, and gave them ſo good ſucceſſe, that there were ſlain of the Re<g ref="char:EOLhyphen"/>bels 1700. or therabouts; beſides thoſe who were taken Priſoners.</p>
+            <p>There were taken by the Proteſtants of the Rebels in this Battle three Com<g ref="char:EOLhyphen"/>manders of eſpeciall note, whoſe Names I thought fiit to ſet down for the ſatiſ<g ref="char:EOLhyphen"/>faction
+<pb facs="tcp:156633:5"/>
+               <!-- PDF PAGE 90 -->of the Reader. The 1. Was Cap<g ref="char:EOLhyphen"/>tain <hi>Oncal,</hi> who after his taking, did vow that he had rather ſuffer a thou<g ref="char:EOLhyphen"/>ſand deaths, then to be at the mercy of his Enemy; eſpecially ſuch a one, from whom he ſcorned to deſired life or quarter.</p>
+            <p>The 2d. was Lieutenant <hi>Johnſon,</hi> a man of an invincible courage; who when he ſaw himſelf taken Priſoner, of<g ref="char:EOLhyphen"/>fered twice to be his own Executioner, but was prevented. The third, was Lieu<g ref="char:EOLhyphen"/>tenant <hi>Jones</hi> a ſpirit very little inferior unto the other two, and by the report of ſome who were ſharers in that skir<g ref="char:EOLhyphen"/>miſh, it was great pitty that three ſo noble ſpirits ſhould be intereſſed in ſo Rebellious and diſhonourable a Cauſe.</p>
+         </div>
+         <div type="Parliamentary_declaration">
+            <pb facs="tcp:156633:6"/>
+            <!-- PDF PAGE 91 -->
+            <head>A Declaration from both Houſes of Par<g ref="char:EOLhyphen"/>liament, <date>April 26,</date>
+            </head>
+            <p>IT is, declared by the Lords and Commons in Parliament, That the ſtopping of the paſſages between <hi>Hul</hi> &amp; the Parliam, &amp; the intercepting of Meſſengers imployed from the Parliament to <hi>Hull,</hi> or from any that are in the Service of the Parliament, or any Letters whatſoever ſent by any to, or from the Parliament is a high breach of the Priviledge of Parliament, which by the laws of this Kingdom, and the Proteſtation, we are bound to de<g ref="char:EOLhyphen"/>fend with our Lives and our Fortunes, and to bring the Violator therof to condigne puniſhment.</p>
+            <p>And hereby all Lords Lieutenants, and their De<g ref="char:EOLhyphen"/>puties authoriſed by the Ordinance of both houſes of Parliament, all Sheriffs, Iuſtices, Majors, Bayliffs, Conſtables, and other Officers whatſoever, are re<g ref="char:EOLhyphen"/>quired to give their uttermoſt Aid and Aſſiſtance to all that are imployed in the ſaid Service, for their better and more ſpeedy free and ſafe Paſſage: And to apprehend all ſuch as by colour of any Warrant or other Authority whatſoever, ſhall endeavor or go about to hinder any that are imployed about the ſame, and them to apprehend, and in ſafe cuſtodie to ſend up to the Parliament.</p>
+            <closer>
+               <signed>Ordered by the Lords and Commons, that this be forthwith publiſhed in Print. <hi>Jo. Brown Cler. Parl.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
